@@ -22,4 +22,5 @@ Snowboarding game I made in Unity with the help of Udemy
   - Audio Clip (audio data to be played)
  - Added an audio clip for both triggers
  - Disabled movement when head collision with ground occurs (making a method public)
+ - Prevented the head collision sound playing more than once by using a bool and conditional AND statement 
  
