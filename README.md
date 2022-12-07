@@ -21,4 +21,5 @@ Snowboarding game I made in Unity with the help of Udemy
   - Audio Source (plays and adjusts volume)
   - Audio Clip (audio data to be played)
  - Added an audio clip for both triggers
- - 
+ - Disabled movement when head collision with ground occurs (making a method public)
+ 
