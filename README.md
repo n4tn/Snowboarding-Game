@@ -15,3 +15,4 @@ Snowboarding game I made in Unity with the help of Udemy
 - Used Invoke to create a pause before reloading the level if a trigger is hit (uses string param. of a method name - be careful)
 - Added a Particle system that consists of an emitter and particles and use modules to control the behaviour. Added one for the finish line and a crash trigger
 - Used FindObjectOfType to access the surface effector from a different game object in order to speed up and slow down our snowboarder
+- Using OnCollisionExit2D to allow snowboarding particle effects when touching the ground and no particle effects when not touching the ground
