@@ -1,5 +1,5 @@
 # **Snowboarder!**
-![Image](./Screencaps/Snowboarding)
+![Image](./ScreenCaps/Snowboarding)
 
 ## Aim of the Game
 Get the snowboarder from the start of the level to the end of the level without crashing or falling off the map.
