@@ -11,3 +11,4 @@ Snowboarding game I made in Unity with the help of Udemy
 - Added two triggers:
   1. Finish Line to complete the level
   2. A crash trigger on the snowboarders head to  restart the level
+- Imported UnityEngine.SceneManagement and used the SceneManager class method LoadScene to restart the surrent level if the player hits either of the two triggers above
