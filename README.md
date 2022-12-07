@@ -13,3 +13,4 @@ Snowboarding game I made in Unity with the help of Udemy
   2. A crash trigger on the snowboarders head to  restart the level
 - Imported UnityEngine.SceneManagement and used the SceneManager class method LoadScene to restart the surrent level if the player hits either of the two triggers above
 - Used Invoke to create a pause before reloading the level if a trigger is hit (uses string param. of a method name - be careful)
+- Added a Particle system that consists of an emitter and particles and use modules to control the behaviour. Added one for the finish line and a crash trigger
