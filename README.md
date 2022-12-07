@@ -3,6 +3,8 @@
 
 - [Aim of the Game](#Aim-of-the-Game)
 - [Controls](#Controls)
+- [Build Process](#Build-Process)
+- [Future Improvements](#Potential-Improvements) 
 
 ## Aim of the Game
  Get the snowboarder from the start of the level to the end of the level without crashing or falling off the map.
