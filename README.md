@@ -1,4 +1,4 @@
-# **Snowboarder The Game**
+# **Snowboarder!**
 ![Image](./Screencaps/Snowboarding)
 
 ## Aim of the Game
